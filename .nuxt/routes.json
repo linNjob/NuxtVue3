@@ -1,0 +1,23 @@
+[
+  {
+    "name": "product",
+    "path": "/product",
+    "component": "/Users/wuchenglin/00web/NuxtVue3/pages/product.vue",
+    "chunkName": "pages/product",
+    "_name": "_e3e40c9e"
+  },
+  {
+    "name": "router",
+    "path": "/router",
+    "component": "/Users/wuchenglin/00web/NuxtVue3/pages/router.js",
+    "chunkName": "pages/router",
+    "_name": "_c4464390"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/wuchenglin/00web/NuxtVue3/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_639f0e94"
+  }
+]

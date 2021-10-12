@@ -1,0 +1,14 @@
+{
+  "IndexHeader": {
+    "description": "Auto imported from components/IndexHeader.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "Error": {
+    "description": "Auto imported from components/error/404.vue"
+  }
+}
